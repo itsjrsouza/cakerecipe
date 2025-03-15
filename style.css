@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body * {
+    font-family: 'Alice', sans-serif;
+    padding: 24px;
+}
