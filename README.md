@@ -21,7 +21,6 @@ Programa de formação em FullStack promovido pela Rocketseat!
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
